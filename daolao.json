@@ -4,7 +4,7 @@
 //单多仓配置地址https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/blob/master/
 //或使用多仓总接口https://agit.ai/butterfly/md/raw/branch/PLANT/DC-main.json
 {
-  "urls": [
+ "urls": [
 
     {
       "url": "",
