@@ -1,4 +1,3 @@
-﻿
 
 //单多仓。在线接口。
 //单多仓配置地址https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/blob/master/
@@ -97,60 +96,10 @@
     {
       "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/qiaoj.json",
       "name": "非固链MHQTV/qiaoj✘72测试"
+    },
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
       "name": "🧡jie2009/se✘测试☀️"
-    },
-
-
-
-    {
-      "url": "",
-      "name": "—————— 在 线 ——————"
-    },    
-    {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "🆙南风Yoursmile7/XC☀️"
-    },
-    {
-      "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-      "name": "🆙duo/v☀️"
-    },
-    {
-      "url": "http://dxawi.github.io/0/0.json",
-      "name": "🆗dxawi/0☀️"
-    },
-    {
-      "url": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi.json",
-      "name": "🆗小河弯弯/smallmi☀️"
-    },
-    {
-      "url": "https://agit.ai/1452635819/h/raw/branch/master/mao3",
-      "name": "🅰️1452635819/h/mao3☀️"
-    },
-    {
-      "url": "https://agit.ai/1452635819/h/raw/branch/master/L1",
-      "name": "🅰️1452635819/h/L1☀️"
-    },
-        {
-      "url": "https://agit.ai/1452635819/h/raw/branch/master/L2",
-      "name": "🅰️1452635819/h/L2☀️"
-    },
-    {
-      "url": "https://raw.liucn.cc/box/m.json",
-      "name": "🆗Liu673cn/m☀️"
-    },
-    {
-      "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-      "name": "☁️云星 家庭☀️"
-    },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "☁️云星 阿里☀️"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "☁️云星 哔哩☀️"
-        }
+    }
   ]
 }
