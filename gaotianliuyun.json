@@ -2,7 +2,6 @@
 
 //单多仓。在线接口。
 //单多仓配置地址https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/blob/master/
-//或使用多仓总接口https://agit.ai/butterfly/md/raw/branch/PLANT/DC-main.json
 {
   "urls": [
 {
@@ -10,8 +9,20 @@
       "name": "💛💛 常用线路 在线 💛💛"
     },
     {
-      "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+      "url": "https://ghproxy.com//raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json",
+      "name": "🧡高天全面 /0820☀️"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0820.txt",
+      "name": "🧡高天精简 /0820☀️"
+    },
+    {
+      "url": "https://yydsys.top/duo/v.json",
       "name": "🧡DUODUO /V☀️"
+    }, 
+    {
+      "url": "http://175.178.228.180:9000/configfm.php",
+      "name": "🧡闪电侠 /0224☀️"
     }, 
     {
       "url": "http://dxawi.github.io/0/0.json",
@@ -38,14 +49,7 @@
       "url": "",
       "name": "💛💛 高天流云 在线 💛💛"
     },
-    {
-      "url": "https://ghproxy.com//raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json",
-      "name": "🧡全面 /0820☀️"
-    },
-    {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0820.txt",
-      "name": "🧡精简 /0820☀️"
-    },
+    
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "name": "🧡俊于+XBiu♬ /0821☀️"
