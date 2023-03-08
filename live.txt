@@ -8,39 +8,39 @@
       "name": " live 在线 "
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/18TV.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/18TV.txt",
       "name": "zhang /18tv"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/鲨鱼.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/鲨鱼.txt",
       "name": "zhang /鲨鱼TV"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/内置直播源.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/内置直播源.txt",
       "name": "zhang/内置直播源"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/live.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/live.txt",
       "name": "zhang /live"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/TV.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/TV.txt",
       "name": "zhang/tv"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/iptvx.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/iptvx.txt",
       "name": "gao /iptvx"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.m3u",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.m3u",
       "name": "gao/listx.m3u"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt",
       "name": "gao/listx.txt"
     },
 {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/livex.txt",
       "name": "gao/livex.txt"
     },
     {
