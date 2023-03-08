@@ -1,42 +1,21 @@
 
-//单多仓。在线接口。
+
 //单多仓配置地址https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/blob/master/
-//或使用多仓总接口https://agit.ai/butterfly/md/raw/branch/PLANT/DC-main.json
+
 {
   "urls": [
 
-    {
-      "url": "",
-      "name": "💛💛 X 在线 💛💛"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/h",
-      "name": "🧡2hacc/h☀️"
-    },
-    {
-      "url": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json",
-      "name": "🧡FongMi/adult☀️"
-    },
-    {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json",
-      "name": "🧡张弘all+X☀️"
-    },
-    {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json",
-      "name": "🧡zhanghong✘☀️"
-    },
-    {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-      "name": "🧡gaotianliuyun/9918☀️"
-    },
-    {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9919.json",
-      "name": "🧡gaotianliuyun/9919☀️"
-    },
-    {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gbreadmyth/tv/main/18.json",
-      "name": "🧡breadmyth/tv/18☀️"
-    },
+{"url": "","name": "💛💛 X 在线 💛💛"},
+
+{"url": "https://ghproxy.com/github.com/FongMi/CatVodSpider/raw/main/json/adult.json","name": "🧡FongMi/adult"},
+{"url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json","name": "🧡张弘all+X"},
+{"url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json","name": "🧡zhanghong✘"},
+{"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/juyou.json","name": "☀️zhang/juyou/old✘测试"},
+{"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/vip.json","name": "☀️zhang/vip/old✘测试"},
+{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json","name": "🧡gaotian/9918"},
+{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9919.json","name": "🧡gaotian/9919"},
+{"url": "https://ghproxy.com/raw.githubusercontent.com/gbreadmyth/tv/main/18.json","name": "🧡breadmyth/tv/18"},
+    {"url": "https://ghproxy.com/raw.githubusercontent.com/2hacc/TVBox/main/H/h","name": "🧡2hacc/h"},
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/xiaoxuwenzi/xiaoxuwenzi.github.io/main/18.json",
       "name": "🧡xiaoxuwenzi/18/不勤☀️"
@@ -71,11 +50,11 @@
     },
     {
       "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
-      "name": "🅰️guot54/月光宝盒pluspro"
+      "name": "guot54/月光宝盒pluspro"
     },
     {
       "url": "https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt",
-      "name": "🅰️guot54/dxwoai18+✘测试"
+      "name": "guot54/dxwoai18+✘测试"
     },
     {
       "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
@@ -83,7 +62,7 @@
     },
     {
       "url": "https://raw.iqiq.io/zqk219/baip/main/tv.json",
-      "name": "🅰zqk219更✘测试"
+      "name": "zqk219更✘测试"
     },
     {
       "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ym.json",
