@@ -1,56 +1,56 @@
-//µ¥¶à²Ö¡£ÔÚÏß½Ó¿Ú¡£
+//å•å¤šä»“ã€‚åœ¨çº¿æ¥å£ã€‚
 
 {
   "urls": [
 
     {
       "url": "",
-      "name": "???? live ÔÚÏß ????"
+      "name": " live åœ¨çº¿ "
     },
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/18TV.txt",
-      "name": "??zhang /18tv??"
+      "name": "zhang /18tv"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/öèÓã.txt",
-      "name": "??zhang /öèÓãTV??"
+      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/é²¨é±¼.txt",
+      "name": "zhang /é²¨é±¼TV"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/ÄÚÖÃÖ±²¥Ô´.txt",
-      "name": "??zhang/ÄÚÖÃÖ±²¥Ô´??"
+      "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/å†…ç½®ç›´æ’­æº.txt",
+      "name": "zhang/å†…ç½®ç›´æ’­æº"
     },
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/live.txt",
-      "name": "??zhang /live??"
+      "name": "zhang /live"
     },
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/TV.txt",
-      "name": "??zhang/tv??"
+      "name": "zhang/tv"
     },
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/iptvx.txt",
-      "name": "??gao /iptvx?"
+      "name": "gao /iptvx"
     },
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.m3u",
-      "name": "??gao/listx.m3u??"
+      "name": "gao/listx.m3u"
     },
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt",
-      "name": "??gao/listx.txt??"
+      "name": "gao/listx.txt"
     },
 {
       "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.txt",
-      "name": "??gao/livex.txt??"
+      "name": "gao/livex.txt"
     },
     {
       "url": "",
-      "name": "¡ª¡ª¡ª¡ª¡ª¡ª ÔÚ Ïß ¡ª¡ª¡ª¡ª¡ª¡ª"
+      "name": "â€”â€”â€”â€”â€”â€” åœ¨ çº¿ â€”â€”â€”â€”â€”â€”"
     },    
   
         {
-            "url": "http://maoyingshi.cc/tvbox/ÔÆĞÇÈÕ¼Ç/bili.json",
-            "name": "??ÔÆĞÇ ßÙÁ¨??"
+            "url": "http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/bili.json",
+            "name": "??äº‘æ˜Ÿ å“”å“©??"
         }
   ]
 }
