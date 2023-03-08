@@ -9,6 +9,10 @@
       "name": "💛💛 常用线路 在线 💛💛"
     },
     {
+      "url": "https://yydsys.top/duo/v.json",
+      "name": "🧡多多/V-YYDSYS☀️"
+    }, 
+    {
       "url": "https://ghproxy.com//raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json",
       "name": "🧡高天全面 /0820☀️"
     },
@@ -17,9 +21,26 @@
       "name": "🧡高天精简 /0820☀️"
     },
     {
-      "url": "https://yydsys.top/duo/v.json",
-      "name": "🧡DUODUO /V☀️"
-    }, 
+      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0826.json",
+      "name": "💙高天&饭太硬♬0826☀️"
+    },
+    {
+      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0827.json",
+      "name": "💙高天&fongmi♬  0827☀️"
+    },
+    {
+      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0828.json",
+      "name": "💙高天&唐三♬　0828☀️"
+    },
+    //{"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0829.json","name": "💙俊于top98♬0829☀️"},
+    {
+      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/js.json",
+      "name": "💙高天&道长drpy♬　JS☀️"
+    },
+    {
+      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/xBPQ.json",
+      "name": "💙高天&菜妮丝♬　 xBPQ☀️"
+    },
     {
       "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
       "name": "🧡云星 家庭☀️"
