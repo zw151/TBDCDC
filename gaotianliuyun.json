@@ -6,8 +6,10 @@
   "urls": [
 {"url": "","name": "💛💛 常用线路 在线 💛💛"},
 {"url": "https://yydsys.top/duo/v.json","name": "🧡多多/V-YYDSYS"}, 
-{"url":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json","name":"🧡zhanghong1983/接口合集"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/js.json","name":"🧡zhanghong1983/js接口"},
+{"url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json","name": "🧡二哈/主线路"}, 
+{"url": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/xiaoya.json","name": "🧡二哈/小雅JS"}, 
+//{"url":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json","name":"🧡zhanghong1983/接口合集"},
+//{"url":"https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/js.json","name":"🧡zhanghong1983/js接口"},
 {"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json","name": "🧡高天全面 /0820"},
 {"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0820.txt","name": "🧡高天精简 /0820"},
 {"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0826.json","name": "💙高天&饭太硬♬0826"},
