@@ -5,7 +5,7 @@
 {
   "urls": [
 {"url": "","name": "张本地/230312删仓"},
-{"url": "clan://localhost/002box/zhang/tvbox.json","name": "🌏张弘/主线路测试"},
+//{"url": "clan://localhost/002box/zhang/tvbox.json","name": "🌏张弘/主线路测试"},
 {"url": "clan://localhost/002box/zhang/18.json","name": "🌏zhang/✘测试！"},
 {"url": "clan://localhost/002box/zhang/juyou.json","name": "🌏zhang/juyou/old"},
 {"url": "clan://localhost/002box/zhang/vip.json","name": "🌏zhang/vip/old"}, 
