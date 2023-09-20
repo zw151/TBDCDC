@@ -1,26 +1,18 @@
-
-
 //单多仓配置地址https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/blob/master/
 
-{
-  "urls": [
-{"url": "","name": "张本地/230312删仓"},
-//{"url": "clan://localhost/002box/zhang/tvbox.json","name": "🌏张弘/主线路测试"},
-{"url": "clan://localhost/002box/zhang/18.json","name": "🌏zhang/✘测试！"},
-{"url": "clan://localhost/002box/zhang/juyou.json","name": "🌏zhang/juyou/old"},
-{"url": "clan://localhost/002box/zhang/vip.json","name": "🌏zhang/vip/old"}, 
-{"url": "","name": "2hacc/h本地"},  
-{"url": "clan://localhost/002box/DC-92/2hacc/h/h.json","name": "🌏2hacc/h本地"},
-{"url": "clan://localhost/002box/gao-master/9918.json","name": "🌏gao/h本地"},
+
 {"url": "","name": "💛💛 X 在线 💛💛"},
 {"url": "https://ghproxy.com/raw.githubusercontent.com/2hacc/TVBox/main/h/h.json","name": "🧡2hacc/h"},
+
+{"url": "https://jihulab.com/zw151/2haccTVBox/-/raw//main/h/h.json","name": "🧡2hacc/Jh"},
+
 {"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json","name": "🧡gaotian/9918"},
 {"url": "https://ghproxy.com/github.com/FongMi/CatVodSpider/raw/main/json/adult.json","name": "🧡FongMi/adult"},
-{"url": "https://ghproxy.com/raw.githubusercontent.com/zw151/TBDCDC/raw/main/1983K/18.json","name": "🧡自制+X"},
 {"url": "https://ghproxy.com/raw.githubusercontent.com/zhanghong1983/tvboxzy/main/SEX.json","name": "🧡zhanghong✘"},
-{"url": "https://agit.ai/butterfly/zhang/raw/branch/main/juyou.json","name": "☀️zhang/juyou/old✘测试"},
-{"url": "https://agit.ai/butterfly/zhang/raw/branch/main/vip.json","name": "☀️zhang/vip/old✘测试"},
-{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9919.json","name": "🧡gaotian/9919"},
+{
+      "url": "https://ghproxy.com/raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
+      "name": "🧡jie2009/se✘测试☀️"
+    },
 {"url": "https://ghproxy.com/raw.githubusercontent.com/gbreadmyth/tv/main/18.json","name": "🧡breadmyth/tv/18"},
 
     {
@@ -83,6 +75,16 @@
       "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/qiaoj.json",
       "name": "非固链MHQTV/qiaoj✘72测试"
     },
+    {
+  "urls": [
+{"url": "","name": "张本地/230312删仓"},
+//{"url": "clan://localhost/002box/zhang/tvbox.json","name": "🌏张弘/主线路测试"},
+{"url": "clan://localhost/002box/zhang/18.json","name": "🌏zhang/✘测试！"},
+{"url": "clan://localhost/002box/zhang/juyou.json","name": "🌏zhang/juyou/old"},
+{"url": "clan://localhost/002box/zhang/vip.json","name": "🌏zhang/vip/old"}, 
+{"url": "","name": "2hacc/h本地"},  
+{"url": "clan://localhost/002box/DC-92/2hacc/h/h.json","name": "🌏2hacc/h本地"},
+{"url": "clan://localhost/002box/gao-master/9918.json","name": "🌏gao/h本地"},
     {
       "url": "https://ghproxy.com/raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
       "name": "🧡jie2009/se✘测试☀️"
