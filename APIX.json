@@ -8,8 +8,11 @@
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
       "categories": [
-        "动作片","伦理片"
+        "动作片",
+        "伦理片"
       ]
     },
     {
